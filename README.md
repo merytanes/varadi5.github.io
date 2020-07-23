@@ -1,2 +1,2 @@
-# varadi5-github.io
+# varadi5.github.io
 Demo page
